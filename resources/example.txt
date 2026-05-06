@@ -1,0 +1,1 @@
+example text file that acts as a resource to push the resources folder to repo
